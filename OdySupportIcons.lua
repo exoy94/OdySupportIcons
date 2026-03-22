@@ -2,7 +2,7 @@ OSI = OSI or {}
 local OSI = OSI
 
 OSI.name 		= "OdySupportIcons"
-OSI.version 	= "|c00ff001.12.0|r"
+OSI.version 	= "|c00ff001.13.3|r"
 OSI.author 		= "|cff8534@Lamierina7|r & |c00FF00@ExoY94|r"
 OSI.show        = true
 OSI.debug       = false
